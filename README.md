@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @habitate
+- 👀 I’m interested in code.
+- 🌱 I’m currently learning to code.
+- 💞️ I’m looking to collaborate on what i like.
+- 📫 How to reach me -> You know how
+- 😄 Pronouns: Bot
+- ⚡ Fun fact: Bots have no feelings yet people talking to bots do.
